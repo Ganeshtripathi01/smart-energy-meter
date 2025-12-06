@@ -1,0 +1,9 @@
+{
+  "device": "smart-meter-001",
+  "timestamp": "2025-12-06T12:00:00Z",
+  "voltage_rms": 230.1,
+  "current_rms": 3.25,
+  "active_power": 748.0,
+  "energy_wh": 12.4,
+  "overload": false
+}
